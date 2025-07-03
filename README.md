@@ -31,5 +31,5 @@ Developer: YSNRFD
 ```bash
 git clone https://github.com/ysnrfd/twt-telegram-rpg-text-based-bot-open-source.git
 cd twt-telegram-rpg-text-based-bot-open-source
-python
+python bot.py
 ```
