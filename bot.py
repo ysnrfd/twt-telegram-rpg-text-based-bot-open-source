@@ -6,6 +6,9 @@ import signal
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from database.db import init_db
+# @ysnrfd          TELEGRAM
+
+# Developer: YSNRFD
 
 # Configuration
 BOT_TOKEN = ''
