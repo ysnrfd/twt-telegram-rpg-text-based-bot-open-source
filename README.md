@@ -1,6 +1,10 @@
 # 🤖 twt‑telegram‑rpg‑text‑based‑bot
 
 یک **بات متنی RPG** برای تلگرام، متن‌باز و فارسی که تجربه‌ای فانتزی و تعاملی به‌صورت RPG در کانال‌ها و گروه‌های تلگرام فراهم می‌کند.
+سازنده: YSNRFD
+Developer: YSNRFD
+تلگرام: @ysnrfd
+Telegram: @ysnrfd
 
 ---
 
