@@ -117,6 +117,10 @@ def format_profile(player, skills_combat, skills_common, skills_special):
 
 ───── ◈ مهارت‌های ویژه ◈ ─────  
 {format_skills(skills_special)}
+
+# Developer: YSNRFD
+# Telegram: @ysnrfd
+
 """
 
 def format_skills(skills):
